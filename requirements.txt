@@ -1,2 +1,5 @@
 agno
-openai
+opena
+python-dotenv
+gradio
+
